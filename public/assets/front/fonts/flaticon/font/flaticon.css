@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/03/2018 21:33
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+    font-size: auto;
+    font-style: normal;
+    margin-left: 0;
+}
+
+.flaticon-login-arrow-outline:before { content: "\f100"; }
+.flaticon-chat:before { content: "\f101"; }
+.flaticon-heart-shape-outline:before { content: "\f102"; }
+.flaticon-locked-padlock:before { content: "\f103"; }
+.flaticon-logout:before { content: "\f104"; }
+.flaticon-add:before { content: "\f105"; }
+.flaticon-calendar-1:before { content: "\f106"; }
+.flaticon-calendar:before { content: "\f107"; }
+.flaticon-user:before { content: "\f108"; }
+.fa fa-user:before { content: "\f109"; }
+.flaticon-check-mark:before { content: "\f10a"; }
+.flaticon-draw-check-mark:before { content: "\f10b"; }
+.flaticon-room-service:before { content: "\f10c"; }
+.flaticon-idea:before { content: "\f10d"; }
+.flaticon-green-park-city-space:before { content: "\f10e"; }
+.flaticon-weightlifting:before { content: "\f10f"; }
+.flaticon-theatre-masks:before { content: "\f110"; }
+.flaticon-alarm-clock:before { content: "\f111"; }
+.flaticon-parking:before { content: "\f112"; }
+.flaticon-swimmer:before { content: "\f113"; }
+.flaticon-old-typical-phone:before { content: "\f114"; }
+.flaticon-wifi-connection-signal-symbol:before { content: "\f115"; }
+.flaticon-air-conditioner:before { content: "\f116"; }
+.flaticon-monitor:before { content: "\f117"; }
+.flaticon-padlock:before { content: "\f118"; }
+.flaticon-agreement:before { content: "\f119"; }
+.flaticon-facebook-placeholder-for-locate-places-on-maps:before { content: "\f11a"; }
+.flaticon-square-layouting-with-black-square-in-east-area:before { content: "\f11b"; }
+.flaticon-balcony-and-door:before { content: "\f11c"; }
+.flaticon-bath:before { content: "\f11d"; }
+.flaticon-bed:before { content: "\f11e"; }
+.flaticon-job:before { content: "\f11f"; }
+.flaticon-call-center-agent:before { content: "\f120"; }
+.flaticon-badge:before { content: "\f121"; }
+.flaticon-money-bag-with-dollar-symbol:before { content: "\f122"; }
+.flaticon-tag:before { content: "\f123"; }
+.flaticon-hotel-building:before { content: "\f124"; }
+.flaticon-car-repair:before { content: "\f125"; }
+.flaticon-house:before { content: "\f126"; }
+.flaticon-office-block:before { content: "\f127"; }
